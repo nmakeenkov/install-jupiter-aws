@@ -1,1 +1,1 @@
-sudo apt-get install qt4-default
+sudo apt-get install g++ qt4-default
