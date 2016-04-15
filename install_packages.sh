@@ -1,1 +1,1 @@
-sudo apt-get install make g++ qt4-default
+sudo apt-get install make g++ qt4-default language-pack-ru-base 
