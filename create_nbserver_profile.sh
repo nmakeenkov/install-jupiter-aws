@@ -1,4 +1,4 @@
-~/miniconda/bin/ipython profile create nbserver >create_serv_log.txt 2>create_serv_err.txt
+~/miniconda/bin/ipython profile create nbserver
 
 File=~/.ipython/profile_nbserver/ipython_notebook_config.py
 printf "\n# Configuration file for ipython-notebook.
