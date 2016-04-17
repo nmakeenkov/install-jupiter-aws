@@ -1,5 +1,5 @@
 # install-jupiter-aws
-Easy script to install jupiter to AWS
+A script to install jupiter to AWS
 
 It's easy:
 ```
