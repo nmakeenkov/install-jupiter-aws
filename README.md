@@ -1,4 +1,4 @@
-# install-jupiter-aws
+# install-jupyter-aws
 A script to install jupyter to AWS
 
 It's easy:
